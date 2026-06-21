@@ -8,8 +8,4 @@
 
 **Integrantes del equipo:**
 
-* Cardenas Panduro, Ricardo Gabriel (Rick2425) (20241376)
-* Tuppia Paitan, Joaquin Francisco (JTPXD) (20241405)
-* Almonacid Quispe, Jimmy Salomón (patatita1theoriginal) (20241374)
-* Ortiz Huamani, Ricardo Fidel (ricardofortizh) (20240724)
-  Prompt de Joaquin( parte 2):
+* Rodriguez Lopez Fabricio (FabricioRl) (20241399)
