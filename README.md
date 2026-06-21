@@ -8,4 +8,5 @@
 
 **Integrantes del equipo:**
 
-* Rodriguez Lopez Fabricio (FabricioRl) (20241399)
+* Rodriguez Lopez, Fabricio (FabricioRl) (20241399)
+* Dávalos Escalante, Billie (Billie_DavEsc) (20241378)
