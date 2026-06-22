@@ -11,4 +11,5 @@
 * Rodriguez Lopez, Fabricio (FabricioRl) (20241399)
 * Dávalos Escalante, Billie (Billie_DavEsc) (20241378)
 * Alva Aquino, Nicole
-  (nalva19) (20221388) 
+  (nalva19) (20221388)
+* Mayta Quintana, Andy (andykmq)  (20190234)
