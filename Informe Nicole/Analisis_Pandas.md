@@ -25,7 +25,19 @@ Para las publicaciones obtenidas desde Menéame se calculó el **Ratio de Valida
 
 Este indicador busca identificar publicaciones que reciben muchas visitas pero pocos votos positivos, lo que podría representar un comportamiento atípico dentro de la plataforma.
 
-Las publicaciones cuyo ratio fue inferior al umbral definido por el prototipo fueron marcadas como **sospechosas**, con el propósito de generar alertas para una revisión posterior.
+Las publicaciones cuyo ratio fue inferior al umbral definido por el prototipo fueron marcadas como sospechosas, con el propósito de generar alertas para una revisión posterior.
+
+**Figura 1. Cantidad de publicaciones extraídas por fuente.**
+
+<img width="623" height="417" alt="image" src="https://github.com/user-attachments/assets/d5c67143-7034-4ef4-a3cf-07ac989ce604" />
+
+Este gráfico muestra el número de publicaciones obtenidas durante el proceso de Web Scraping. Se extrajeron **50 publicaciones de Menéame** y **25 publicaciones de Reddit**, cantidad suficiente para evaluar el funcionamiento del prototipo y aplicar los criterios de detección definidos.
+
+**Figura 2. Distribución de votos en Menéame.**
+
+<img width="666" height="414" alt="image" src="https://github.com/user-attachments/assets/39856ef0-81fa-486b-9f36-32444c23a3c9" />
+
+La distribución de votos evidencia que la mayoría de las publicaciones presenta una cantidad moderada de votos, mientras que un número reducido concentra valores más elevados. Esta información permitió calcular el Ratio de Validación y analizar el comportamiento de las publicaciones con menor respaldo por parte de la comunidad.
 
 ### 4.4 Análisis de Reddit
 
@@ -43,6 +55,13 @@ Se definió un conjunto de palabras clave frecuentemente asociadas con contenido
 * clickbait
 
 Cada título fue analizado para identificar la presencia de estas palabras. Cuando una publicación contenía alguna de ellas, era marcada como sospechosa dentro del prototipo.
+
+**Figura 3. Publicaciones clasificadas como sospechosas.**
+
+<img width="624" height="413" alt="image" src="https://github.com/user-attachments/assets/32788409-9004-4d02-9d11-3e2d553a1059" />
+
+El gráfico muestra la cantidad de publicaciones clasificadas como sospechosas en cada fuente de información. En el conjunto analizado se identificaron **2 publicaciones sospechosas en Menéame** y **1 publicación sospechosa en Reddit**, equivalentes aproximadamente al **4 %** del total de publicaciones evaluadas en cada plataforma. Estos resultados constituyen alertas preliminares y no representan una confirmación de que el contenido sea falso, sino publicaciones que requieren una revisión adicional.
+
 
 ### 4.5 Exportación de Resultados
 
