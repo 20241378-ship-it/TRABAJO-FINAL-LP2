@@ -4,7 +4,7 @@
 
 ![Universidad Nacional Agraria La Molina Logo](https://seeklogo.com/images/U/universidad-nacional-agraria-la-molina-logo-5BF0B8D973-seeklogo.com.png)
 
-### Práctica dirigida 3: Análisis de la editorial 'BookAnalytics' para identificar oportunidades comerciales
+### REPORTE PROYECTO FINAL
 
 **Integrantes del equipo:**
 
